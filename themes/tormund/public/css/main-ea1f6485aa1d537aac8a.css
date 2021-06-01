@@ -1,0 +1,16 @@
+.root_r160x8cv {display: none}
+
+@media only screen and (min-width: 1170px) {
+    .root_r160x8cv{display:block;width:inherit;}
+    .root_r1bla9dg{color:var(--text-color);display:block;position:relative;-webkit-text-decoration:none;text-decoration:none;width:100%;}
+    @media (hover:hover){.rootActive_rr0qrij{--scale:1;}.rootActive_rr0qrij:hover{--scale:1.006802721088435;}}@media (pointer:coarse) and (hover:none){.rootActive_rr0qrij::before{background:rgba(255,255,255,0.12);border-radius:8px;bottom:0;display:block;left:0;position:absolute;right:0;top:0;z-index:1;}.rootActive_rr0qrij:active::before{content:'';}}
+    .wrapper_wiqsrar{background:var(--color);border-radius:8px;bottom:0;left:0;overflow:hidden;position:absolute;right:0;top:0;z-index:0;}
+    .wrapperActive_w4py4g7{-webkit-transform:scale(var(--scale)) translateZ(0);-ms-transform:scale(var(--scale)) translateZ(0);transform:scale(var(--scale)) translateZ(0);-webkit-transform-origin:bottom;-ms-transform-origin:bottom;transform-origin:bottom;-webkit-transition:-webkit-transform 0.2s ease-out;-webkit-transition:transform 0.2s ease-out;transition:transform 0.2s ease-out;}
+    .image_i149pt89{border-bottom-right-radius:8px;border-top-right-radius:8px;bottom:0;height:100%;object-fit:cover;object-position:center center;position:absolute;right:0;top:0;}
+    .titles_thmqt8m{padding:16px;position:relative;z-index:2;text-align-last: left;}@media (min-width:1280px){.titles_thmqt8m{padding:20px;}}
+    .root_r1ru04lg{font-weight:400; color:#FFFFFF}
+    .title_t1w5wj9t{margin:0;overflow:hidden;padding-bottom:4px;text-overflow:ellipsis;white-space:nowrap;}
+    .root_subtitle1_r18emsye{font-size:16px;font-weight:400;line-height:20px;}@media (min-width:1280px){.root_subtitle1_r18emsye{font-size:18px;line-height:24px;}}
+    .subtitle_s177ilep{color:#919193;margin:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+    .root_subtitle2_rt60wi{font-size:14px;font-weight:400;line-height:16px;}@media (min-width:1280px){.root_subtitle2_rt60wi{font-size:16px;line-height:20px;}}
+}
